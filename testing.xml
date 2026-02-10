@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test Automation suite">
+
+    <test name="Login Tests">
+        <classes>
+            <class name="org.example.ForumTest"/>
+        </classes>
+    </test>
+
+</suite>
